@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dwec-proyecto2/static/css/main.1a8a0596.css",
-    "main.js": "/dwec-proyecto2/static/js/main.11fe224b.js",
+    "main.js": "/dwec-proyecto2/static/js/main.c9c0d04c.js",
     "index.html": "/dwec-proyecto2/index.html",
     "main.1a8a0596.css.map": "/dwec-proyecto2/static/css/main.1a8a0596.css.map",
-    "main.11fe224b.js.map": "/dwec-proyecto2/static/js/main.11fe224b.js.map"
+    "main.c9c0d04c.js.map": "/dwec-proyecto2/static/js/main.c9c0d04c.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
-    "static/js/main.11fe224b.js"
+    "static/js/main.c9c0d04c.js"
   ]
 }
